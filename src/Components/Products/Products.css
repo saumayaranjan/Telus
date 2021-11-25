@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Telus-Web-Reg";
+    src:  url("../../assets/Telus-Web-Lt.ttf");
+}
+
+
+.productCard:hover{
+    box-shadow: 6px 12px 27px -1px rgba(87,86,86,0.96);
+    transition: all 0.2s ease-in;
+    /* transform: scale(1.15); */
+}
+.productCard{
+    height: 84%;
+}
+.img{
+    padding: 36px ;
+    height: 16rem;
+}
+.img:hover{
+    
+}
+
+.tx-f-tel{
+    font-family: "Telus-Web-Reg" !important;
+}

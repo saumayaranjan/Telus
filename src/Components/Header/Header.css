@@ -1,0 +1,9 @@
+.cartDetails>span{
+   
+    font-size: 13px;
+    width: 15 px;
+    border-radius: 50%;
+    height: 15px;
+    left: 5px;
+    bottom: 18px;
+}

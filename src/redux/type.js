@@ -1,0 +1,4 @@
+export const USERNAME="USERNAME";
+export const ADDTOCART= "ADDTOCART";
+export const REMOVEFROMCART ="REMOVEFROMCART";
+export const FILTERDATA="FILTERDATA";
